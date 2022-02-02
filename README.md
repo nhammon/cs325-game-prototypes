@@ -2,7 +2,7 @@
 
 This repository will contain links and source for all of your games.
 This repository should be marked as GitHub Pages. This lets you run your games directly from GitHub!
-Check it out: [http://nhammon.github.io/cs325-game-prototypes/](http://gmu-cs325.github.io/cs325-game-prototypes/)
+Check it out: [http://nhammon.github.io/cs325-game-prototypes/](https://nhammon.github.io/cs325-game-prototypes/)
 Fork this repository and start making your own games!
 
 You can't run the `index.html` for your games directly from your local machine without a local webserver.
